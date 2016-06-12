@@ -31,6 +31,7 @@ Mino * genMino()
 			ptr = new MinoS;
 			break;
 																																			case MINO_Z:
+	   	case MINO_Z:
 	   	    ptr = new MinoZ;
 			break;
 	}
